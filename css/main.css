@@ -77,9 +77,11 @@ header nav {
 
 footer nav {
     padding: .8em;
-    position: fixed;
+    position: absolute;
     bottom: 10px;
-    width: 100%
+    width: 92%;
+    
+    
 }
 
 @media (max-width: 500px) {
